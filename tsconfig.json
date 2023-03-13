@@ -2,7 +2,7 @@
   "extends": "./tsconfig.base.json",
   "compilerOptions": {
     "noEmit": true,
-    "target": "es5",
+    "target": "es2015"
   },
   "include": [
     "jest.config.js",
